@@ -1,4 +1,4 @@
-# Hey Forrest here 👋
+# Hi! I'm Forrest  👋
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Gmail][gmail1-shield]][gmail1-url]
