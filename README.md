@@ -17,7 +17,7 @@
 </p>
 
 
-I am a current Computer Science student at Cornell University and a hobby Full-stack Developer who is also exploring ML and AI :robot:. Feel free to reach out at [![Gmail][gmail-shield]][gmail-url]. 
+I am a current Computer Science student at Cornell University and a hobby Full-stack Developer who is also exploring ML and AI. Feel free to reach out at [![Gmail][gmail-shield]][gmail-url]. 
 
 [gmail-shield]: https://img.shields.io/badge/fhc25@cornell.edu-D14836?style=flat
 [gmail-url]: mailto:fhc25@cornell.edu
