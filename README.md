@@ -52,8 +52,10 @@ I am a current Computer Science student at Cornell University and a part-time Fu
 
 [instagram-shield]: https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white
 [instagram-url]: https://www.instagram.com/forrest.cai/
-## 
-### Languages
+
+
+## Tech Stack 👨‍💻
+### Languages 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white)
