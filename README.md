@@ -7,7 +7,7 @@
 
 
 [gmail1-shield]: https://img.shields.io/badge/Gmail-555?style=for-the-badge&logo=gmail&logoColor=white
-[gmail1-url]: mailto:fhc25@gmail.com
+[gmail1-url]: mailto:fhc25@cornell.edu
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/forrestcai
@@ -20,7 +20,7 @@
 I am a current Computer Science student at Cornell University and a part-time Full-stack Developer who is also exploring ML and AI :robot:. Feel free to reach out at [![Gmail][gmail-shield]][gmail-url]. 
 
 [gmail-shield]: https://img.shields.io/badge/fhc25@cornell.edu-D14836?style=flat
-[gmail-url]: mailto:fhc25@gmail.com
+[gmail-url]: mailto:fhc25@cornell.edu
  
  🔭 I’m planning to make a **AI Code Tutoring Platform**.
  
