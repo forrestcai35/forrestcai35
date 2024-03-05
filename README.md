@@ -24,9 +24,9 @@ I am a current Computer Science student at Cornell University and a part-time Fu
  
  🔭 I’m planning to make a **AI Code Tutoring Platform**.
  
- 🌱 I’m currently learning ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+ 🌱 I’m currently learning ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white).
 
- :books: I want to learn ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) and ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+ :books: I want to learn ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) and ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white).
 
  🏐 I enjoy playing volleyball, basketball and the guitar, and recently started to dj as well 🎧.
 
