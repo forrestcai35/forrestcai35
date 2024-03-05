@@ -1,10 +1,9 @@
-s# Hi! I'm Forrest  👋
+# Hi! I'm Forrest  👋
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Gmail][gmail1-shield]][gmail1-url]
 
 <img src="https://img.shields.io/github/followers/forrestcai35?label=Followers" style=" float:left, margin-right:10px" />
-
 
 [gmail1-shield]: https://img.shields.io/badge/Gmail-555?style=for-the-badge&logo=gmail&logoColor=white
 [gmail1-url]: mailto:fhc25@cornell.edu
@@ -22,13 +21,13 @@ I am a current Computer Science student at Cornell University and a hobby Full-s
 [gmail-shield]: https://img.shields.io/badge/fhc25@cornell.edu-D14836?style=flat
 [gmail-url]: mailto:fhc25@cornell.edu
  
- 🔭 I’m planning to make a **AI Code Tutoring Platform**.
+ * 🔭 I’m planning to make a **AI Code Tutoring Platform**.
  
- 🌱 I’m currently learning ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white).
+ * 🌱 I’m currently learning ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white).
 
- :books: I want to learn ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) and ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white).
+ * :books: I want to learn ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) and ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white).
 
- 🏐 I enjoy playing volleyball, basketball and the guitar, and recently started to dj as well 🎧.
+ * 🏐 I enjoy playing volleyball, basketball and the guitar, and recently started to dj as well 🎧.
 
 ### What I'm listening to:
 
