@@ -12,7 +12,7 @@
 [linkedin-url]: https://linkedin.com/in/forrestcai
 
 <p align="center">
-  <img src="Sprites/banner.jpg">
+  <img src="Sprites/banner.gif">
 </p>
 
 
