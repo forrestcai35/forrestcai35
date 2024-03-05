@@ -1,4 +1,4 @@
-## Hey Forrest here 👋
+# Hey Forrest here 👋
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -12,7 +12,7 @@
 </p>
 
 
-I am a current Computer Science student at Cornell University and a part-time Full-stack Developer who is exploring ML and AI :robot:. Feel free to reach out at [![Gmail][gmail-shield]][gmail-url].
+I am a current Computer Science student at Cornell University and a part-time Full-stack Developer who is also exploring ML and AI :robot:. Feel free to reach out at [![Gmail][gmail-shield]][gmail-url].
 
 [gmail-shield]: https://img.shields.io/badge/fhc25@cornell.edu-D14836?style=flat&logo=gmail&logoColor=white
 [gmail-url]: mailto:fhc25@gmail.com
@@ -40,8 +40,8 @@ I am a current Computer Science student at Cornell University and a part-time Fu
 
 <!-- ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestcai35&show_icons=true&theme=midnight-purple)
 -->
----
-### Languages I know
+## 
+### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white)
@@ -63,10 +63,11 @@ I am a current Computer Science student at Cornell University and a part-time Fu
 
 **Check the Repositories and don't forget to give a star.** 👇
 
-:star: From [forrestcai35](https://github.com/forrestcai35)
+:star: From: [Profile](https://github.com/forrestcai35)
 
-[website]: https://forrestcai35.github.io/Portfolio/
-[linkedin]: https://www.linkedin.com/in/forrestcai35/
+💻 Current Projects: [Projects](https://github.com/forrestcai35?tab=repositories)
+
+
 
 <!--
 **forrestcai35/forrestcai35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
