@@ -1,8 +1,13 @@
 # Hey Forrest here 👋
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Gmail][gmail1-shield]][gmail1-url]
 
 <img src="https://img.shields.io/github/followers/forrestcai35?label=Follow" style=" float:left, margin-right:10px" />
+
+
+[gmail1-shield]: https://img.shields.io/badge/Gmail-555?style=for-the-badge&logo=gmail&logoColor=white
+[gmail1-url]: mailto:fhc25@gmail.com
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/forrestcai
@@ -14,14 +19,14 @@
 
 I am a current Computer Science student at Cornell University and a part-time Full-stack Developer who is also exploring ML and AI :robot:. Feel free to reach out at [![Gmail][gmail-shield]][gmail-url]. 
 
-[gmail-shield]: https://img.shields.io/badge/fhc25@cornell.edu-D14836?style=flat&logo=gmail&logoColor=white
+[gmail-shield]: https://img.shields.io/badge/fhc25@cornell.edu-D14836?style=flat
 [gmail-url]: mailto:fhc25@gmail.com
  
  🔭 I’m planning to make a **AI Code Tutoring Platform**.
  
  🌱 I’m currently learning ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 
- :books: I want to learn ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) and ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+ :books: I want to learn ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) and ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 
  🏐 I enjoy playing volleyball, basketball and the guitar, and recently started to dj as well 🎧.
 
