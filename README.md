@@ -1,9 +1,9 @@
-# Hi! I'm Forrest  👋
+s# Hi! I'm Forrest  👋
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Gmail][gmail1-shield]][gmail1-url]
 
-<img src="https://img.shields.io/github/followers/forrestcai35?label=Follow" style=" float:left, margin-right:10px" />
+<img src="https://img.shields.io/github/followers/forrestcai35?label=Followers" style=" float:left, margin-right:10px" />
 
 
 [gmail1-shield]: https://img.shields.io/badge/Gmail-555?style=for-the-badge&logo=gmail&logoColor=white
