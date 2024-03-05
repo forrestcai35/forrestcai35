@@ -8,7 +8,7 @@
 [linkedin-url]: https://linkedin.com/in/forrestcai
 
 <p align="center">
-  <img src="https://api.lorem.space/image/album?w=150&h=150">
+  <img src="Sprites/banner.jpg">
 </p>
 
 
