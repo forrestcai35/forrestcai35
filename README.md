@@ -30,7 +30,7 @@ I am a current Computer Science student at Cornell University and a part-time Fu
 
  🏐 I enjoy playing volleyball, basketball and the guitar, and recently started to dj as well 🎧.
 
-### I'm listening to:
+### What I'm listening to:
 
 *![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=n6hye6l1mwqys2cwiw4u51j8b&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=8f1fea&bar_color_cover=false)*
 
