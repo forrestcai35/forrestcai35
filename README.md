@@ -12,7 +12,7 @@
 </p>
 
 
-I am a current Computer Science student at Cornell University and a part-time Full-stack Developer who is also exploring ML and AI :robot:. Feel free to reach out at [![Gmail][gmail-shield]][gmail-url].
+I am a current Computer Science student at Cornell University and a part-time Full-stack Developer who is also exploring ML and AI :robot:. Feel free to reach out at [![Gmail][gmail-shield]][gmail-url]. 
 
 [gmail-shield]: https://img.shields.io/badge/fhc25@cornell.edu-D14836?style=flat&logo=gmail&logoColor=white
 [gmail-url]: mailto:fhc25@gmail.com
@@ -20,7 +20,7 @@ I am a current Computer Science student at Cornell University and a part-time Fu
  🔭 I’m planning to make a **AI Code Tutoring Platform**.
  
  🌱 I’m currently learning ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
- 
+
  :books: I want to learn ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) and ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 
 ### I'm listening to:
