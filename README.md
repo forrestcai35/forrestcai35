@@ -12,7 +12,10 @@
 </p>
 
 
-I am a Full-stack Developer who is exploring ML and AI :robot: while looking to facilitate he world with User Experience and Design Thinking.
+I am a current Computer Science student at Cornell University and a part-time Full-stack Developer who is exploring ML and AI :robot:. Feel free to reach out at [![Gmail][gmail-shield]][gmail-url]
+
+[gmail-shield]: https://img.shields.io/badge/fhc25@cornell.edu-D14836?style=flat&logo=gmail&logoColor=white
+[gmail-url]: mailto:fhc25@gmail.com
  
  🔭 I’m planning to make a **AI Code Tutoring Platform**.
  
@@ -34,6 +37,8 @@ I am a Full-stack Developer who is exploring ML and AI :robot: while looking to 
 
 [spotify-shield]: https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white
 [spotify-url]: https://open.spotify.com/user/n6hye6l1mwqys2cwiw4u51j8b?si=d8a289246e4540fc
+
+	![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 <!-- ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestcai35&show_icons=true&theme=midnight-purple)
 -->
 ---
