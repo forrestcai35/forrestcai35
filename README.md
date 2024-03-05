@@ -38,7 +38,6 @@ I am a current Computer Science student at Cornell University and a part-time Fu
 [spotify-shield]: https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white
 [spotify-url]: https://open.spotify.com/user/n6hye6l1mwqys2cwiw4u51j8b?si=d8a289246e4540fc
 
-	![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 <!-- ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestcai35&show_icons=true&theme=midnight-purple)
 -->
 ---
