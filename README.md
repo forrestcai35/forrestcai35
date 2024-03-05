@@ -27,6 +27,9 @@ I am a current Computer Science student at Cornell University and a part-time Fu
 
 *![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=n6hye6l1mwqys2cwiw4u51j8b&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=8f1fea&bar_color_cover=false)*
 
+### Stats:
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestcai35&show_icons=true&theme=midnight-purple)
+
 ### You can find me on:
 [![Steam][steam-shield]][steam-url]
 
@@ -37,9 +40,6 @@ I am a current Computer Science student at Cornell University and a part-time Fu
 
 [spotify-shield]: https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white
 [spotify-url]: https://open.spotify.com/user/n6hye6l1mwqys2cwiw4u51j8b?si=d8a289246e4540fc
-
-<!-- ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestcai35&show_icons=true&theme=midnight-purple)
--->
 ## 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -61,6 +61,7 @@ I am a current Computer Science student at Cornell University and a part-time Fu
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
+##
 **Check the Repositories and don't forget to give a star.** 👇
 
 :star: From: [Profile](https://github.com/forrestcai35)
