@@ -86,7 +86,7 @@ I am a current Computer Science student at Cornell University and a hobby Full-s
 
 :star: From: [Profile](https://github.com/forrestcai35)
 
-💻 Current Projects: [Projects](https://github.com/forrestcai35?tab=repositories)
+💻 Current Projects: [Projects](https://github.com/forrestcai35/repositories)
 
 
 
