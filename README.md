@@ -10,7 +10,6 @@
 [linkedin-url]: https://linkedin.com/in/forrestcai
 
 <img src="https://img.shields.io/github/followers/forrestcai35?label=Followers" style=" float:left, margin-right:10px" /> 
-<img src="https://img.shields.io/github/stars/forrestcai35?label=Stars" alt="stars">
 
 
 <p align="center">
