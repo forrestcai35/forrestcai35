@@ -37,7 +37,7 @@ I am a current Computer Science student at Cornell University and a hobby Full-s
 *![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=n6hye6l1mwqys2cwiw4u51j8b&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=8f1fea&bar_color_cover=false)*
 
 ### Stats:
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestcai35&show_icons=true&theme=midnight-purple)
+<img src="https://github-readme-stats.vercel.app/api?username=forrestcai35&show_icons=true&theme=midnight-purple" alt="ovi" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=forrestcai35&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="ovi" />
 
