@@ -82,7 +82,7 @@ I am a current Computer Science student at Cornell University and a hobby Full-s
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ##
-**Check the Repositories and don't forget to give a star.** 👇
+**Check out my Repositories and don't forget to give a star.** 👇
 
 :star: From: [Profile](https://github.com/forrestcai35)
 
