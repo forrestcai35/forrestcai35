@@ -61,11 +61,11 @@ I am a current Computer Science student at Cornell University and a hobby Full-s
 
 ## Tech Stack 👨‍💻
 ### Languages 
-![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=&labelColor=black)
-![Java](https://img.shields.io/badge/Java-%23F7931E.svg?style=for-the-badge&logo=openjdk&logoColor=%23F7931E&labelColor=black)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=black)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=black) 
-![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=%23E98407&labelColor=black)
+![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white&labelColor=)
+![Java](https://img.shields.io/badge/Java-%23F7931E.svg?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=&labelColor=) 
+![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white&labelColor=)
 
 ### Libaries & Frameworks
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
