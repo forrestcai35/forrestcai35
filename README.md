@@ -3,13 +3,15 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Gmail][gmail1-shield]][gmail1-url]
 
-<img src="https://img.shields.io/github/followers/forrestcai35?label=Followers" style=" float:left, margin-right:10px" />
-
 [gmail1-shield]: https://img.shields.io/badge/Gmail-555?style=for-the-badge&logo=gmail&logoColor=white
 [gmail1-url]: mailto:fhc25@cornell.edu
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/forrestcai
+
+<img src="https://img.shields.io/github/followers/forrestcai35?label=Followers" style=" float:left, margin-right:10px" /> 
+<img src="https://img.shields.io/github/stars/forrestcai35?label=Stars" alt="stars">
+
 
 <p align="center">
   <img src="Sprites/banner.gif" width = 500>
@@ -37,6 +39,8 @@ I am a current Computer Science student at Cornell University and a hobby Full-s
 
 ### Stats:
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestcai35&show_icons=true&theme=midnight-purple)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=forrestcai35&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="ovi" />
 
 ### You can find me on:
 [![Steam][steam-shield]][steam-url]
