@@ -1,4 +1,4 @@
-# Hi! I'm Forrest  👋
+# Hi! I'm Forrest 🌲
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Gmail][gmail1-shield]][gmail1-url]
@@ -27,7 +27,7 @@ I am a current Computer Science student at Cornell University and a hobby Full-s
 
  * :books: I want to learn ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) and ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white).
 
- * 🏐 I enjoy playing volleyball, basketball and the guitar, and recently started to dj as well 🎧.
+ * 🏐 I enjoy playing volleyball, basketball and the guitar, and recently started to dj.
 
 ### What I'm listening to:
 
