@@ -38,7 +38,7 @@ I am a current Computer Science student at Cornell University and a hobby Full-s
 ### Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=forrestcai35&show_icons=true&theme=midnight-purple" alt="ovi" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=forrestcai35&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="ovi" />
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=forrestcai35&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="ovi" /> -->
 
 ### You can find me on:
 [![Steam][steam-shield]][steam-url]
