@@ -56,18 +56,19 @@ I am a current Computer Science student at Cornell University and a Full-stack D
 [instagram-shield]: https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white
 [instagram-url]: https://www.instagram.com/forrest.cai/
 
-[![Pinterest][pinterest-shield]][pinterest-url]
 
-[pinterest-shield]: https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white
-[pinterest-url]: https://www.pinterest.com/forestcai/
 
 ## Tech Stack 👨‍💻
 ### Languages 
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white&labelColor=)
 ![Java](https://img.shields.io/badge/Java-%23F7931E.svg?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=&labelColor=) 
 ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white&labelColor=)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=)
+![CSS3](https://img.shields.io/badge/css3-%201572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=&labelColor=) 
+
+
+
 
 ### Libaries & Frameworks
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
