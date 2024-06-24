@@ -33,8 +33,8 @@ I am a current Computer Science student at Cornell University and a Full-stack D
  * 🏐 Outside of programming I enjoy cooking, volleyball, and playing the guitar. I recently picked up DJing as well!
 
 ### What I'm listening to:
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=n6hye6l1mwqys2cwiw4u51j8b&cover_image=true&theme=novatorem&show_offline=true&background_color=ffffff&interchange=true&bar_color=8f53ca&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=n6hye6l1mwqys2cwiw4u51j8b&redirect=true)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=n6hye6l1mwqys2cwiw4u51j8b&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=n6hye6l1mwqys2cwiw4u51j8b&redirect=true)
 ### Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=forrestcai35&show_icons=true&theme=midnight-purple" alt="ovi" />
 
