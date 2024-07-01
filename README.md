@@ -26,7 +26,7 @@ I am a current Computer Science student at Cornell University and a Full-stack D
 
  * 🚧 **Personal Website** in progress.
  
- * 🌱 I’m currently learning ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white).
+ * 🌱 I’m currently learning ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon&logoColor=white).
 
  * :books: I want to learn ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white), 	![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) and ![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 
