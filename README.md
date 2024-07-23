@@ -35,11 +35,6 @@ I am a current Computer Science student at Cornell University and a Full-stack D
 ### What I'm listening to:
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=n6hye6l1mwqys2cwiw4u51j8b&cover_image=true&theme=novatorem&show_offline=true&background_color=ffffff&interchange=true&bar_color=8f53ca&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=n6hye6l1mwqys2cwiw4u51j8b&redirect=true)
 
-### Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=forrestcai35&show_icons=true&theme=midnight-purple" alt="ovi" />
-
-<!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=forrestcai35&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="ovi" /> -->
-
 ### You can find me on:
 [![Steam][steam-shield]][steam-url]
 
@@ -55,8 +50,6 @@ I am a current Computer Science student at Cornell University and a Full-stack D
 
 [instagram-shield]: https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white
 [instagram-url]: https://www.instagram.com/forrest.cai/
-
-
 
 ## Tech Stack 👨‍💻
 ### Languages 
