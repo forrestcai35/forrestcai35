@@ -54,13 +54,17 @@ I am a current Computer Science student at Cornell University and a Full-stack D
 ## Tech Stack 👨‍💻
 ### Languages 
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white&labelColor=)
-![Java](https://img.shields.io/badge/Java-%23F7931E.svg?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=)
+![C](https://img.shields.io/badge/C-%23E98407.svg?style=for-the-badge&logo=C&logoColor=white&labelColor=&color=00599C)
+![Java](https://img.shields.io/badge/Java-%23F7931E.svg?style=for-the-badge&logo=java&logoColor=white&labelColor=)
 ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white&labelColor=)
+
+
+
+
+#### Web Development 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=)
 ![CSS3](https://img.shields.io/badge/css3-%201572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=&labelColor=) 
-
-
 
 
 ### Libaries & Frameworks
