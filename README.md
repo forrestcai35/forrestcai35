@@ -22,7 +22,7 @@ I am a current Computer Science student at Cornell University and a Full-stack D
 [gmail-shield]: https://img.shields.io/badge/fhc25@cornell.edu-D14836?style=flat
 [gmail-url]: mailto:fhc25@cornell.edu
  
- * 🔭 I’m planning to make a **AI Code Tutoring Platform**.
+ * 🔭 I’m planning to make a **...**.
 
  * 🚧 **Personal Website** in progress.
  
