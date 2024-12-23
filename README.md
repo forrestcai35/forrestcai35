@@ -26,9 +26,9 @@ I am a current Computer Science student at Cornell University and a Full-stack D
 
  * 🚧 **Personal Website** in progress.
  
- * 🌱 I’m currently learning ![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
+ * 🌱 I’m currently learning ![Go](https://img.shields.io/badge/Go-%23007ACC.svg?style=flat&logo=go&logoColor=white) 
 
- * :books: I want to learn ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white), 	![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) and ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon&logoColor=white).
+ * :books: I want to learn ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=C#&logoColor=white) and ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon&logoColor=white).
 
  * 🏐 Outside of programming I enjoy cooking, volleyball, and playing the guitar. I recently picked up DJing as well!
 
@@ -65,7 +65,7 @@ I am a current Computer Science student at Cornell University and a Full-stack D
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=)
 ![CSS3](https://img.shields.io/badge/css3-%201572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=&labelColor=) 
-
+![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
 
 ### Libaries & Frameworks
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
