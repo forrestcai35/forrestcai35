@@ -55,7 +55,7 @@ I am a current Computer Science student at Cornell University and a Full-stack D
 ### Languages 
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white&labelColor=)
 ![C](https://img.shields.io/badge/C-%23E98407.svg?style=for-the-badge&logo=C&logoColor=white&labelColor=&color=00599C)
-![Java](https://img.shields.io/badge/Java-%23F7931E.svg?style=for-the-badge&logo=java&logoColor=white&labelColor=)
+![Java](https://img.shields.io/badge/Java-%23F7931E.svg?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=)
 ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white&labelColor=)
 
 
