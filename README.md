@@ -44,10 +44,6 @@ I am a current Computer Science student at Cornell University and a Full-stack D
 [spotify-shield]: https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white
 [spotify-url]: https://open.spotify.com/user/n6hye6l1mwqys2cwiw4u51j8b?si=d8a289246e4540fc
 
-[![Instagram][instagram-shield]][instagram-url]
-
-[instagram-shield]: https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white
-[instagram-url]: https://www.instagram.com/forrest.cai/
 
 ## Tech Stack 👨‍💻
 ### Languages 
