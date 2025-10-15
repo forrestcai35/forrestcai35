@@ -22,7 +22,7 @@ I am a current Computer Science student at Cornell University and a Full-stack D
 [gmail-shield]: https://img.shields.io/badge/fhc25@cornell.edu-D14836?style=flat
 [gmail-url]: mailto:fhc25@cornell.edu
  
- * 🚧 Working on **SQWUID**.
+ * 🚧 Working on **Matcha**.
  
  * 🌱 I’m currently learning ![Go](https://img.shields.io/badge/Go-%23007ACC.svg?style=flat&logo=go&logoColor=white) 
 
