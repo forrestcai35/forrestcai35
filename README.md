@@ -22,14 +22,6 @@ I am a current Computer Science student at Cornell University and a Full-stack D
 [gmail-shield]: https://img.shields.io/badge/fhc25@cornell.edu-D14836?style=flat
 [gmail-url]: mailto:fhc25@cornell.edu
  
- * 🚧 Working on **Matcha**.
- 
- * 🌱 I’m currently learning ![Go](https://img.shields.io/badge/Go-%23007ACC.svg?style=flat&logo=go&logoColor=white) 
-
- * :books: I want to learn ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=C#&logoColor=white) and ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon&logoColor=white).
-
- * 🏐 Outside of programming I enjoy cooking, volleyball, and playing the guitar. I recently picked up DJing as well!
-
 ### What I'm listening to:
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=n6hye6l1mwqys2cwiw4u51j8b&cover_image=true&theme=novatorem&show_offline=true&background_color=ffffff&interchange=true&bar_color=8f53ca&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=n6hye6l1mwqys2cwiw4u51j8b&redirect=true)
 
