@@ -17,10 +17,6 @@
 </p>
 
 
-I am a current Computer Science student at Cornell University and a Full-stack Developer who is also interested in web3 and AI. Feel free to reach out at [![Gmail][gmail-shield]][gmail-url]. 
-
-[gmail-shield]: https://img.shields.io/badge/fhc25@cornell.edu-D14836?style=flat
-[gmail-url]: mailto:fhc25@cornell.edu
  
 ### What I'm listening to:
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=n6hye6l1mwqys2cwiw4u51j8b&cover_image=true&theme=novatorem&show_offline=true&background_color=ffffff&interchange=true&bar_color=8f53ca&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=n6hye6l1mwqys2cwiw4u51j8b&redirect=true)
