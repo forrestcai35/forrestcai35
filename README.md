@@ -18,8 +18,6 @@
 
 
  
-### What I'm listening to:
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=n6hye6l1mwqys2cwiw4u51j8b&cover_image=true&theme=novatorem&show_offline=true&background_color=ffffff&interchange=true&bar_color=8f53ca&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=n6hye6l1mwqys2cwiw4u51j8b&redirect=true)
 
 ### You can find me on:
 [![Steam][steam-shield]][steam-url]
